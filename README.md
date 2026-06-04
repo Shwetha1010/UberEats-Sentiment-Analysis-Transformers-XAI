@@ -4,7 +4,7 @@ Developed an end-to-end sentiment analysis framework on ~965K UberEats customer 
 
 ## Methodology
 
-![Methodology](figures/methodology.png)
+![Methodology](Drawing.png)
 
 ## Key Highlights
 
