@@ -2,6 +2,10 @@
 
 Developed an end-to-end sentiment analysis framework on ~965K UberEats customer reviews by combining Deep Learning, Transformer models, Explainable AI, and service quality analytics.
 
+## Methodology
+
+![Methodology](figures/methodology.png)
+
 ## Key Highlights
 
 - Built and evaluated LSTM, GRU, BiLSTM, CNN, CNN-BiLSTM, DistilBERT, BERTweet, and RoBERTa models.
