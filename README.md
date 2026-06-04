@@ -17,11 +17,19 @@ Python • TensorFlow • Hugging Face Transformers • Scikit-Learn • SHAP �
 
 ## Results
 
+## Model Performance
+
 | Model | Accuracy |
 |---------|---------|
+| LSTM | 92.43% |
+| GRU | 92.39% |
+| BiLSTM | 92.13% |
+| CNN | 92.19% |
 | CNN-BiLSTM | 93.25% |
 | DistilBERT | 93.30% |
 | BERTweet | 94.82% |
 | RoBERTa | 95.22% |
+
+**Best Performing Model:** RoBERTa (95.22% Accuracy)
 
 This project demonstrates the effectiveness of transformer architectures for large-scale sentiment classification while enhancing interpretability and business insight generation through Explainable AI and service quality feature engineering.
